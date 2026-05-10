@@ -62,19 +62,7 @@ This solution helps businesses:
 
 ## 📷 Project Screenshots
 
-### Microsoft Fabric Workspace
-![Workspace](screenshots/lakehouse_setup.png)
-
-### SQL Exploration
-![SQL](screenshots/sql_exploration.png)
-
-### Data Cleaning Notebook
-![Notebook](screenshots/data_cleaning_notebook.png)
-
-### Sales Prediction Model
-![ML](screenshots/sales_prediction_model.png)
-
----
+Find them on the above information as they are each name with exactly what is being displayed.
 
 ## 🔮 Future Improvements
 - Advanced forecasting models
